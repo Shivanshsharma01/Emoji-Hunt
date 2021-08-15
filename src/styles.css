@@ -1,0 +1,15 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.head {
+  font-size: xxx-large;
+}
+.input {
+  height: 5vh;
+}
+
+body {
+  background-color: yellow;
+}
